@@ -1,0 +1,15 @@
+{
+  "name": "cnrtest",
+  "version": "4.2.0",
+  "description": "download html, parse cheese into json objects, output to file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "connor birnie",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
